@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,7 @@ Software Carpentry
 
 
 Hi
+=======
+software carpentry derp
+recommit to master
+>>>>>>> 984e32dc94bb666288858a78c90202cda69be4c5
